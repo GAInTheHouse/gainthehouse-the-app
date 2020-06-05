@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GAInTheHouse</string>
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="android_trivia">Memory Game</string>
+    <string name="about_text">Click on the tiles to display the images.\n\nMatch two similar tiles to win the round.\n\nTry to pass all three levels.</string>
+    <string name="rules_text">Select two tiles from the given list. Each time you match them correctly, they stay.\n\nIf you match them wrong, all tiles flip! \n\n Try to pass all three levels.\n\nYou can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="trivia_hint">Trivia Hint</string>
+    <string name="title_android_trivia_question">Memory Game (%1$d/%2$d)</string>
+    <string name="title_about_trivia">About GAInTheHouse</string>
+    <string name="title_trivia_rules">GAInTheHouse Rules</string>
+    <string name="share_success_text">I mastered the memory game through %1$d/%2$d level(s)</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
